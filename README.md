@@ -7,4 +7,4 @@
 **2023.9 - now, MS, Computer Science, Tsinghua University**
 
 ## Research
-**Video Coding, Machine Learning**
+**Computational Video, Machine Learning**
