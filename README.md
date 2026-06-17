@@ -7,4 +7,4 @@
 **2023.9 - now, M.Sc., Tsinghua University**
 
 ## Research
-**Efficient AI, ML System, Computational Video, Machine Learning**
+**Efficient AI, Computational Video, Machine Learning**
