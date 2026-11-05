@@ -16,7 +16,9 @@
 - Collaborated with Prof. Kyriakos Flouris at the [University of Cambridge](https://www.cam.ac.uk/) on controllable human motion generation.
 
 ## Research Interest
-**Computer Vision, Robotics, Machine Learning**
+- **Computer Vision**: Video understanding, generation and their efficient algorithms.
+- **Robotics**: VLA and world model.
+- **Machine Learning**: knowledge distillation.
 
 ## Elsewhere on the Internet
 - 🌐 [hychaowang.github.io](https://hychaowang.github.io/): Portfolio, blog, and comprehensive project documentation.
