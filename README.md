@@ -16,5 +16,5 @@ Received M.Sc. in Data Science and Information Technology at [Tsinghua](https://
 **Computer Vision, Robotics, Machine Learning**
 
 ## Elsewhere on the Internet
-🌐 [[hychaowang.github.io](hychaowang.github.io)](https://hychaowang.github.io/): Portfolio, blog, and comprehensive project documentation. | 
+🌐 [hychaowang.github.io](https://hychaowang.github.io/): Portfolio, blog, and comprehensive project documentation. | 
 📚 [Google Scholar](https://scholar.google.com/citations?user=-exqY3gAAAAJ&hl=en)
