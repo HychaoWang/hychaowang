@@ -5,8 +5,11 @@
 
 ## Previous Works
 💃 **Controllable Human Motion Generation**: Generating semantically different cross-domain human motion.
+
 ⚡️ **Efficient Video Perception**: Leverage motion estimation to accelerate video perception systems.
+
 ⚗️ **Knowledge Distillation**: Design knowledge distillation framework for physiological time series models.
+
 💻 **Opensource Project**: [FinalDream](https://github.com/EutropicAI/FinalDream), a cross-platform AI image generation tool that allows you to generate high-quality images with off-line AI models. [Final2x](https://github.com/EutropicAI/Final2x), a powerful tool that allows for image super-resolution to arbitrary sizes using multiple models.
 
 ## Background
