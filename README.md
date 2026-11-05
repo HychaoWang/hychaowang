@@ -10,10 +10,11 @@
 - 💻 **Opensource Project**: [FinalDream](https://github.com/EutropicAI/FinalDream), a cross-platform AI image generation tool that allows you to generate high-quality images with off-line AI models. [Final2x](https://github.com/EutropicAI/Final2x), a powerful tool that allows for image super-resolution to arbitrary sizes using multiple models.
 
 ## Background
-- Received M.Sc. in Data Science and Information Technology at [Tsinghua](https://www.tsinghua.edu.cn/) [SIGS](https://www.sigs.tsinghua.edu.cn/en/).
-- Received B.Eng. in Computer Science and Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn/).
-- Research Intern at the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) (CASIA), advised by Prof. Ziyu Jia, working on multimodal physiological time-series modeling. 
+- Received M.Sc. in Data Science and Information Technology at [Tsinghua](https://www.tsinghua.edu.cn/) [SIGS](https://www.sigs.tsinghua.edu.cn/en/), advised by Prof. Yuxing Han.
 - Collaborated with Prof. Kyriakos Flouris at the [University of Cambridge](https://www.cam.ac.uk/) on controllable human motion generation.
+- Research Intern at the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) (CASIA), advised by Prof. Ziyu Jia, working on multimodal physiological time-series modeling.
+- Received B.Eng. in Computer Science and Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), advised by Prof. Jin Wang.
+
 
 ## Research Interest
 - **Computer Vision**: Video understanding, generation and their efficient algorithms.
