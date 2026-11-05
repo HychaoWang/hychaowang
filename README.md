@@ -18,7 +18,7 @@
 ## Research Interest
 - **Computer Vision**: Video understanding, generation and their efficient algorithms.
 - **Robotics**: VLA and world model.
-- **Machine Learning**: knowledge distillation.
+- **Machine Learning**: knowledge distillation, next-generation model architectures and optimization algorithms.
 
 ## Elsewhere on the Internet
 - 🌐 [hychaowang.github.io](https://hychaowang.github.io/): Portfolio, blog, and comprehensive project documentation.
