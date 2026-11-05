@@ -6,5 +6,5 @@
 
 **2023.9 - 2026.6, M.Sc., Tsinghua University**
 
-## Research
-**Efficient AI, Computational Video, Machine Learning**
+## Research Interest
+**Computer Vision, Robotics, Machine Learning**
