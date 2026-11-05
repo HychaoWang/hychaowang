@@ -3,7 +3,7 @@
 ## What I'm Working on
 - 🤖 **Robotics**: VLA and world model algorithms as an Embodied AI Engineer.
 
-## Previous Works
+## Previous Work
 - 💃 **Controllable Human Motion Generation**: Generating semantically different cross-domain human motion.
 - ⚡️ **Efficient Video Perception**: Leverage motion estimation to accelerate video perception systems.
 - ⚗️ **Knowledge Distillation**: Design knowledge distillation frameworks for physiological time series models.
